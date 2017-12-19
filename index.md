@@ -1,5 +1,4 @@
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![The Band](/LS__7566.jpg)
 
 
 
